@@ -134,6 +134,7 @@ help_message =f"""
      ║  ► Others                        ║                                       ║
      ║                                  ║                                       ║
      ║    • discord                     ║  Show my server link.                 ║
+     ║    • discordip                   ║  Show all voice chat connected ip.    ║
      ║    • clear                       ║  Clean the screen.                    ║
      ║    • bungee [ip:port]            ║  Start a proxy server.                ║
      ║    • bot [ip:port]               ║  Connect to a server using a bot.     ║
