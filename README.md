@@ -8,6 +8,7 @@
 </p>
 
 ### This project was created for educational purposes and should not be used in environments without legal authorization.
+### if ngrok not work redownload ngrok
 
 # 🛠 Features
 
