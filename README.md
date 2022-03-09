@@ -1,6 +1,6 @@
 # 🧨 Artemis Tool v0.1
 
-<h3> Pentesting tool for Minecraft </h3>
+<h3> Pentesting tool for Minecraft and Discord</h3>
 <br/>
 </br>
 <p align="center">
